@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(27, 253, 253);
+    color: rgb(235, 115, 215);
+    font-family:cursive;
+}
+
+.heading{
+    width: 80%;
+    font-size: 22px;
+    font-family:cursive;
+}
+
+#camera{
+    border: 2px dashed rgb(126, 186, 255); 
+    width: 350px;
+    height: 300px;
+    
+}
+
+.name_of_objects, #resultObjectName, #resultObjectAccuracy{
+    color: rgb(16, 157, 175);
+    font-family:cursive;
+}
+
+h3{
+    background-color: rgb(0, 255, 221);
+    color: rgb(224, 190, 255);
+    font-family:cursive;
+}
